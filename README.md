@@ -1,2 +1,1 @@
-# SDE-Sheet
-LeetCode problem solution 
+# LeetCode coding problem solution 
